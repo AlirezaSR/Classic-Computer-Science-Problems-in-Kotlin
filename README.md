@@ -5,4 +5,4 @@ by David Kopec, rewritten in Kotlin.
 # Requirement
 I highly recommand you to install IntelliJ IDEA Community Edition .
 </br>
-The examples have tested against only ["AdoptOpenJDK 11(LTS) (HotSpot)"](https://adoptopenjdk.net/)
+Theses examples have tested against only ["AdoptOpenJDK 11(LTS) (HotSpot)"](https://adoptopenjdk.net/)

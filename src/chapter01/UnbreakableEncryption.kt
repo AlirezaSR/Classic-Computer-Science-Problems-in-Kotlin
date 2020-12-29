@@ -44,5 +44,3 @@ fun main(args: Array<String>) {
     val result = decrypt(kp)
     println(result)
 }
-
-

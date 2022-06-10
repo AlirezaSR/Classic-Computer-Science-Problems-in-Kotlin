@@ -6,3 +6,4 @@ by David Kopec, rewritten in Kotlin.
 I highly recommand you to install IntelliJ IDEA Community Edition .
 </br>
 Theses examples have tested against only ["AdoptOpenJDK 11(LTS) (HotSpot)"](https://adoptopenjdk.net/)
+All PR are welcome.

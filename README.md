@@ -3,8 +3,8 @@ Unofficial examples from the book ["Classic Computer Science Problems in Java"](
 by David Kopec, rewritten in Kotlin.
 
 # Requirement
-I highly recommand you to install IntelliJ IDEA Community Edition .
+I highly recommand you to install ["IntelliJ IDEA Community Edition"](https://www.jetbrains.com/idea/download/) and ["sdkman"](https://sdkman.io/).
 </br>
-Theses examples have tested against only ["AdoptOpenJDK 11(LTS) (HotSpot)"](https://adoptopenjdk.net/)
+Theses examples have tested against only ["TemurinJDK 17(LTS) (HotSpot)"](https://adoptium.net/)
 </br>
 All PR are welcome.
